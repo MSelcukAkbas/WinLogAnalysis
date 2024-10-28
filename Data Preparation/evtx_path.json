@@ -1,0 +1,24 @@
+{
+    "evtx_path": [
+        {
+            "file_name": "Application.evtx",
+            "description": "Uygulamalarla ilgili olay kayıtlarını içerir."
+        },
+        {
+            "file_name": "Security.evtx",
+            "description": "Güvenlikle ilgili olay kayıtlarını içerir."
+        },
+        {
+            "file_name": "System.evtx",
+            "description": "Sistemle ilgili olay kayıtlarını içerir."
+        },
+        {
+            "file_name": "Setup.evtx",
+            "description": "Sistem kurulumuyla ilgili olay kayıtlarını içerir."
+        },
+        {
+            "file_name": "Microsoft-Windows-Forwarding%4Operational.evtx",
+            "description": "Aynı ağdaki diğer bilgisayarlardan iletilen olay günlüklerini içerir."
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+Timestamp,Error Type,Error Message,Function Name
+2024-10-28 03:49:17,FileNotFoundError,[Errno 2] No such file or directory: 'evtx_path.json',load_event_log_filenames
