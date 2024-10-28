@@ -12,3 +12,4 @@ Bu sınıf, bir JSON dosyası içindeki olay günlüklerini okur ve her birini C
 from evtx2csv.evtx2csv import EVTXToCSVConverter
 
 EVTXToCSVConverter("Data Preparation\evtx_path.json")
+
